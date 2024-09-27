@@ -1,1 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+:root {
+    --bg-color:#87A2FF
+    --primary-color:#C4D7FF
+    --second-color:#FFD7C4
+}
